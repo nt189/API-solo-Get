@@ -1,6 +1,6 @@
 # API-solo-Get Actividad 1
 
-En esta acticidad se realizo una **API** en **Python** unicamente con **13 endpoints GET** para realizar consultas a un archivo de excel donde hay 50 compañeros de la facultad.
+En esta acticidad se realizo una **API** en **Python** unicamente con **13 endpoints GET** para realizar consultas a un archivo de excel donde hay 50 compañeros de la facultad. Como extra Se utilizaron paremetros de ruta en tres endpoints y parametros de consulta en uno.
 
 | No. | Endpoint                                                                          | Nivel | Parámetros de consulta | Parámetros de ruta           | Código de éxito | Código de error  | Descripción                                                                   |
 | --- | --------------------------------------------------------------------------------- | ----- | ---------------------- | ---------------------------- | --------------- | ---------------- | ----------------------------------------------------------------------------- |
